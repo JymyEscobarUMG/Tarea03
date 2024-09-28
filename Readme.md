@@ -4,7 +4,7 @@ En la siguiente página web podemos visualizar una página principal el cual nos
 # El enlace del sitio web publicado.
 Servicio Api Node.js
 
-[https://tarea1jymyjhonathan.netlify.app/](https://hoja-de-trabajo-6.onrender.com/)
+https://hoja-de-trabajo-6.onrender.com/
 
 Aplicacion Web React
 
