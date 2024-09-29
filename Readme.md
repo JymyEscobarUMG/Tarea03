@@ -3,7 +3,7 @@
 Un proyecto de login con Node.js y React permite autenticar usuarios mediante una API. La interfaz de usuario (UI) en React contiene un formulario donde los usuarios ingresan sus credenciales, las cuales son enviadas al servidor de Node.js a través de una solicitud HTTP. El servidor, se utiliza un vector para almacenar usuarios
 
 # El enlace del sitio web publicado.
-Servicio Api Node.js
+Servicio Api Node.js (Suele demorar en cargar la api)
 
 https://hoja-de-trabajo-6.onrender.com/
 
